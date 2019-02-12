@@ -25,6 +25,7 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 - Changed the offset from 5px to 4px in `Tooltip` between activator and message to be consistent with `Popover` ([#1019](https://github.com/Shopify/polaris-react/pull/1019))
 - Fixed `Card` header not showing when `title` empty or not set ([#1031](https://github.com/Shopify/polaris-react/pull/1032))
 - Fixed an issue on Chrome when you use a `TextField` inside `Collapsible` which is inside a scrollable element, the text disappeared if you focused a fully hidden `TextField` ([#1047](https://github.com/Shopify/polaris-react/pull/1047))
+- Removed left margin from vertical `Stack` to prevent overflow ([#1024](https://github.com/Shopify/polaris-react/pull/1024))
 
 ### Documentation
 
