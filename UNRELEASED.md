@@ -16,6 +16,7 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 - Added `download` prop to `Button` and `UnstyledLink` components that enables setting the download attribute ([#1027](https://github.com/Shopify/polaris-react/pull/1027))
 - Extract months and week names into translation files ([#1005](https://github.com/Shopify/polaris-react/pull/1005))
 - Added `untrusted` prop to `Icon` to render SVG strings in an img tag ([#926](https://github.com/Shopify/polaris-react/pull/926))
+- Added `ToastDuration` enum for the `duration` of `Toast` with common values ([#1059](https://github.com/Shopify/polaris-react/pull/1059))
 
 ### Bug fixes
 
